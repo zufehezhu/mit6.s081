@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "spinlock.h": "c",
+        "mutex": "c",
+        "condition_variable": "c"
+    }
+}
